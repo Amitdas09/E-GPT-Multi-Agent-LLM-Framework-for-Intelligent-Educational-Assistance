@@ -53,18 +53,8 @@ Each educational task is handled by a dedicated agent:
 ---
 
 ## 📁 Project Folder Structure
-  
-  E-GPT/
-  │
-  ├── agents/ # Task-specific intelligent agents
-  ├── backend/ # Core processing logic
-  ├── faiss_index/ # Vector embeddings & indexes
-  ├── mainscreen/ # Streamlit UI screens
-  ├── output/ # Generated results and reports
-  ├── report_generator/ # Academic report generation module
-  │
-  ├── mainui.py # Application entry point
-  ├── requirements.txt # Python dependencies
+  <img width="501" height="298" alt="image" src="https://github.com/user-attachments/assets/ac1b055a-7c07-4a87-b298-cb21f5dd0451" />
+
 
 ## ⚙️ Installation & Setup
 
