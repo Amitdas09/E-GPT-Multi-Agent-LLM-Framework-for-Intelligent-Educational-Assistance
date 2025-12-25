@@ -111,6 +111,14 @@ streamlit run mainui.py
 
 ---
 
+## Output
+- Chat UI
+  ![chat ui](https://github.com/user-attachments/assets/cb0be064-7fd2-403d-8727-12bf06ec86e6)
+-Q&A Output
+![question paper](https://github.com/user-attachments/assets/88286315-bb49-4627-8cf6-81bb615447af)
+
+
+
 ## 👨‍💻 Authors
 
 - Amit Ranjan Das  
